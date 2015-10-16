@@ -10,5 +10,6 @@ public class Main {
     int wynik;
     wynik = a + b;
     System.out.println(wynik);
-}
+        //koniec
+    }
 }
